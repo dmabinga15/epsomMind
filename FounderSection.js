@@ -1,1 +1,0 @@
-export default function Founder(){return <div>Founder Section</div>}
