@@ -1,1 +1,0 @@
-export default function CF(){return <form>Contact</form>}
