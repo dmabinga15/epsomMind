@@ -1,0 +1,1 @@
+export default function AE(){return <div>Academic Excellence</div>}

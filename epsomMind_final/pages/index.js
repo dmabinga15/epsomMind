@@ -1,0 +1,1 @@
+export default function Home(){return <div><h1>epsomMind</h1><p>Homepage live</p></div>}
