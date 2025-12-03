@@ -1,1 +1,0 @@
-export default function NavBar(){return <nav>epsomMind</nav>}
